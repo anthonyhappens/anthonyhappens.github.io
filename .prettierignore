@@ -1,0 +1,4 @@
+# This repo is GitHub Pages deploy output (mostly CI-generated from
+# docusaurus / twstock-radar). Do not auto-format anything here — formatting
+# generated files is pure noise and gets overwritten on the next CI deploy.
+*
