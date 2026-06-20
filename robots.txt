@@ -1,5 +1,3 @@
-# Managed by pages-hub (anthonyhappens/pages-hub) — 由 CI 部署到公開站 root，請勿在公開 repo 直接改。
-# 能見度底線：「不被搜、不被亂逛」。保守預設＝全站不允許爬取。
-# 逐站是否開放索引屬內容決定，延後處理（見設計 §7）；要放行某頁時改這裡。
+# Site-wide crawl policy. 要放行某路徑就在下面加 Allow: 規則。
 User-agent: *
 Disallow: /
